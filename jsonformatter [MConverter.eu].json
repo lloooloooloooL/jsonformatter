@@ -1,0 +1,70 @@
+"2024-12-20": [
+        { "title-menu": "Блюдо 1", "description-menu": "КБЖУ: 200/10/15/25", "grams": "250 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 2", "description-menu": "КБЖУ: 250/15/20/30", "grams": "300 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 3", "description-menu": "КБЖУ: 180/8/12/20", "grams": "200 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 4", "description-menu": "КБЖУ: 220/12/18/28", "grams": "210 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 5", "description-menu": "КБЖУ: 300/20/30/45", "grams": "350 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" }
+    ],
+    "2024-12-21": [
+        { "title-menu": "Блюдо 6", "description-menu": "КБЖУ: 210/11/16/26", "grams": "240 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 7", "description-menu": "КБЖУ: 230/13/19/29", "grams": "280 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 8", "description-menu": "КБЖУ: 190/9/14/21", "grams": "220 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 9", "description-menu": "КБЖУ: 250/15/22/32", "grams": "330 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 10", "description-menu": "КБЖУ: 310/21/31/47", "grams": "360 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" }
+    ],
+    "2024-12-22": [
+        { "title-menu": "Блюдо 11", "description-menu": "КБЖУ: 210/11/16/26", "grams": "240 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 12", "description-menu": "КБЖУ: 230/13/19/29", "grams": "280 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 8", "description-menu": "КБЖУ: 190/9/14/21", "grams": "220 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 9", "description-menu": "КБЖУ: 250/15/22/32", "grams": "330 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 10", "description-menu": "КБЖУ: 310/21/31/47", "grams": "360 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" }
+    ],
+    "2024-12-23": [
+        { "title-menu": "Блюдо 16", "description-menu": "КБЖУ: 215/12/17/25", "grams": "245 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 17", "description-menu": "КБЖУ: 240/20/25/35", "grams": "310 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 18", "description-menu": "КБЖУ: 195/8/13/22", "grams": "260 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 19", "description-menu": "КБЖУ: 265/14/21/39", "grams": "330 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 20", "description-menu": "КБЖУ: 315/23/32/48", "grams": "370 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" }
+    ],
+    "2024-12-24": [
+        { "title-menu": "Блюдо 21", "description-menu": "КБЖУ: 210/9/14/20", "grams": "250 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 22", "description-menu": "КБЖУ: 260/15/23/34", "grams": "300 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 23", "description-menu": "КБЖУ: 200/7/12/18", "grams": "200 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 24", "description-menu": "КБЖУ: 230/13/19/29", "grams": "270 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 25", "description-menu": "КБЖУ: 290/19/30/44", "grams": "350 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" }
+    ],
+    "2024-12-25": [
+        { "title-menu": "Блюдо 26", "description-menu": "КБЖУ: 206/10/15/23", "grams": "240 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 27", "description-menu": "КБЖУ: 250/15/20/30", "grams": "290 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 28", "description-menu": "КБЖУ: 195/9/14/21", "grams": "220 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 29", "description-menu": "КБЖУ: 240/12/19/28", "grams": "210 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 30", "description-menu": "КБЖУ: 310/20/29/45", "grams": "360 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" }
+    ],
+    "2024-12-26": [
+        { "title-menu": "Блюдо 31", "description-menu": "КБЖУ: 220/10/16/25", "grams": "250 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 32", "description-menu": "КБЖУ: 240/13/20/30", "grams": "280 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 33", "description-menu": "КБЖУ: 185/7/12/18", "grams": "230 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 34", "description-menu": "КБЖУ: 215/11/17/22", "grams": "240 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 35", "description-menu": "КБЖУ: 290/20/30/40", "grams": "350 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" }
+    ],
+    "2024-12-27": [
+        { "title-menu": "Блюдо 36", "description-menu": "КБЖУ: 205/10/15/24", "grams": "260 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 37", "description-menu": "КБЖУ: 225/12/18/28", "grams": "280 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 38", "description-menu": "КБЖУ: 210/10/15/22", "grams": "240 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 39", "description-menu": "КБЖУ: 240/14/20/32", "grams": "300 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 40", "description-menu": "КБЖУ: 330/23/33/50", "grams": "380 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" }
+    ],
+    "2024-12-28": [
+        { "title-menu": "Блюдо 41", "description-menu": "КБЖУ: 215/13/19/26", "grams": "250 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 42", "description-menu": "КБЖУ: 230/12/20/30", "grams": "270 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 43", "description-menu": "КБЖУ: 190/8/11/18", "grams": "230 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 44", "description-menu": "КБЖУ: 260/14/22/34", "grams": "310 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 45", "description-menu": "КБЖУ: 305/21/31/46", "grams": "350 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" }
+    ],
+    "2024-12-29": [
+        { "title-menu": "Блюдо 46", "description-menu": "КБЖУ: 190/8/13/20", "grams": "220 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 47", "description-menu": "КБЖУ: 270/18/25/36", "grams": "290 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 48", "description-menu": "КБЖУ: 210/11/17/27", "grams": "230 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 49", "description-menu": "КБЖУ: 185/7/12/16", "grams": "200 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" },
+        { "title-menu": "Блюдо 50", "description-menu": "КБЖУ: 235/12/18/29", "grams": "240 г", "imageUrl": "https://static.tildacdn.com/tild6134-6338-4233-b231-623936333738/image_7.png" }
+    ]
